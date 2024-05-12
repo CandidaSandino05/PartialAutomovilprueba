@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\PartialAutomovil\PartialAutomovil\bin\Debug\net8.0\PartialAutomovil.exe
+C:\Users\HP\source\repos\PartialAutomovil\PartialAutomovil\bin\Debug\net8.0\PartialAutomovil.deps.json
+C:\Users\HP\source\repos\PartialAutomovil\PartialAutomovil\bin\Debug\net8.0\PartialAutomovil.runtimeconfig.json
+C:\Users\HP\source\repos\PartialAutomovil\PartialAutomovil\bin\Debug\net8.0\PartialAutomovil.dll
+C:\Users\HP\source\repos\PartialAutomovil\PartialAutomovil\bin\Debug\net8.0\PartialAutomovil.pdb
+C:\Users\HP\source\repos\PartialAutomovil\PartialAutomovil\obj\Debug\net8.0\PartialAutomovil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\PartialAutomovil\PartialAutomovil\obj\Debug\net8.0\PartialAutomovil.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\PartialAutomovil\PartialAutomovil\obj\Debug\net8.0\PartialAutomovil.AssemblyInfo.cs
+C:\Users\HP\source\repos\PartialAutomovil\PartialAutomovil\obj\Debug\net8.0\PartialAutomovil.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PartialAutomovil\PartialAutomovil\obj\Debug\net8.0\PartialAutomovil.dll
+C:\Users\HP\source\repos\PartialAutomovil\PartialAutomovil\obj\Debug\net8.0\refint\PartialAutomovil.dll
+C:\Users\HP\source\repos\PartialAutomovil\PartialAutomovil\obj\Debug\net8.0\PartialAutomovil.pdb
+C:\Users\HP\source\repos\PartialAutomovil\PartialAutomovil\obj\Debug\net8.0\PartialAutomovil.genruntimeconfig.cache
+C:\Users\HP\source\repos\PartialAutomovil\PartialAutomovil\obj\Debug\net8.0\ref\PartialAutomovil.dll
